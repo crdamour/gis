@@ -6,6 +6,7 @@ import json
 import pandas as pd
 import requests
 import json
+#
 
 class Arcgis():
     
